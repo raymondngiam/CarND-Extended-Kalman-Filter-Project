@@ -5,6 +5,10 @@
 
 This is a project for Udacity's Self Driving Car Nanodegree. The objective is to utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements.
 
+### Video Demo
+
+![Demo](/images/small.gif)
+
 ---
 
 ### Implementation Summary
